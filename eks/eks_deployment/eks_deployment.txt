@@ -1,0 +1,1 @@
+here i am deploying one web using eks and i will upload the output how it will work
